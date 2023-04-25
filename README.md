@@ -51,9 +51,8 @@
 
 Метрика accuracy модели на тренировочной и валидационной выборках:
 
-модель без компонента EntityRuler (только NER) - train_acc = 0.9401, val_acc=0.8;
-
-модель с компонентом EntityRuler до NER - train_acc = 0.9642, val_acc=0.9278.
+#### модель без компонента EntityRuler (только NER) - train_acc = 0.9401, val_acc=0.8;
+#### модель с компонентом EntityRuler до NER - train_acc = 0.9642, val_acc=0.9278.
 
 Архив с сохраненной моделью можно найти по ссылке (487Мб)
 https://drive.google.com/file/d/1JQ4dpMn9cSgeAh0UzX8bXt6Hkan-AMoT/view?usp=share_link
